@@ -3,8 +3,8 @@
 Bem-vindo ao **Forum Hydra Links**! Aqui você pode acessar nossos repositórios de links facilmente, tanto em Português quanto em Inglês. Escolha o idioma abaixo:
 
 ### 📖 Leia em outros idiomas / Read in other languages:
-- 🇧🇷 [Português](README.pt.md)
-- 🇺🇸 [English](README.en.md)
+- 🇧🇷 [Português](#-forum-hydra-links-1)
+- 🇺🇸 [English](#-forum-hydra-links-2)
 
 ---
 
